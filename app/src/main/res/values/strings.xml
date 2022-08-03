@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MVI Tutorial</string>
+    <string name="fetch_user">Fetch Users</string>
 </resources>
